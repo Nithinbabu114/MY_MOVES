@@ -1,0 +1,6 @@
+{
+  "name": "Packers & Movers - My Moves",
+  "description": "View and manage packers and movers estimates, shift details, house specs, and inventory breakdown.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
